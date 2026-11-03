@@ -1,0 +1,1 @@
+export default function Loading() { return (<div className="space-y-4"><div className="skel h-10 w-2/3" /><div className="skel h-40" /><div className="skel h-20" /><div className="skel h-20" /></div>); }
